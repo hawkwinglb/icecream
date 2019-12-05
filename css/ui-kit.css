@@ -4,5 +4,33 @@
 
 html{
     background-color: royalblue;
+    font-family: 'Courier New', Courier, monospace;
 }
 
+body{
+    border-radius: 5px;
+}
+
+main{
+    background-color: #f89595;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 5px;
+}
+header {
+    text-align: center;
+    background-color: #f1e85f;
+    padding: 1%;
+    margin: 2%;
+    border-radius: 5px;
+}
+
+h1.bighead{
+    font-variant: small-caps;
+}
+
+div.container{
+    margin: 5%;
+    padding: 3%;
+    border-radius: 5px;
+}
