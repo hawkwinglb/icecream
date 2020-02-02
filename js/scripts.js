@@ -27,11 +27,3 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }; 
 
-//Vue application
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    message: 'Hello Vue!'
-  }
-})
